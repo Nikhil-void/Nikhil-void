@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Nikhil-void/Nikhil-void/blob/main/Nikhil%20Naik.png)]
+![MasterHead](https://github.com/Nikhil-void/Nikhil-void/blob/main/Nikhil%20Naik.png)
 <h1 align="center">Hi 👋, I'm Nikhil Naik</h1>
 <h3 align="center">A data science, NLP and Computer Vision enthusiast. Passionate in learning ML/AI.</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Nikhil-void/Nikhil-void/blob/main/81248-watch-computer-animation.gif">
