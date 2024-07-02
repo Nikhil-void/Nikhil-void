@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **nikhil281096@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Nikhil-void/Nikhil-void/blob/main/Nikhil_Naik_Resume.pdf](https://github.com/Nikhil-void/Nikhil-void/blob/main/Nikhil_Naik_Resume.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/Nikhil-void/Nikhil-void/blob/main/Nikhil_Naik_Resume.pdf)
+
+- 📄 And here are my Medium Articles on Machine Learning [Medium Account](https://medium.com/@nikhil_naik)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
