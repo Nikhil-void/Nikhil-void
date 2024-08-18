@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **nikhil281096@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/Nikhil-void/Nikhil-void/blob/main/Nikhil_Naik_Resume.pdf)
+- 📄 Know about my experience in concise format [Resume](https://github.com/Nikhil-void/Nikhil_Portfolio/blob/main/assets/pdf/Nikhil_Naik_Resume.pdf)
+
+- 📄 Visit my Portfolio website to know more details of my work [Portfolio](https://nikhil-void.github.io/Nikhil_Portfolio/)
 
 - 📄 And here are my Medium Articles on Machine Learning [Medium Account](https://medium.com/@nikhil_naik)
 
