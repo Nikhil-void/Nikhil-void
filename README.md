@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Persuing **Masters in Machine Learning from Stevens Institute of Technology, NJ.**
 
-- 📫 How to reach me **nikhil281096@gmail.com**
+- 📫 How to reach me **nsnaik1996@gmail.com**
 
 - 📄 Know about my experience in concise format [Resume](https://github.com/Nikhil-void/Nikhil_Portfolio/blob/main/assets/pdf/Nikhil_Naik_Resume.pdf)
 
