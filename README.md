@@ -11,13 +11,13 @@
 
 - 📝 Co-author of articles on LLM fine-tuning and optimization.
 
-</br>  
+</br></br></br> 
 
 -   📫 Contact: nsnaik1996@gmail.com
 -   📄 [Resume](https://github.com/Nikhil-void/Nikhil_Portfolio/blob/main/assets/pdf/Nikhil_Naik_Resume.pdf) – Concise summary of my experience
 -   🌐 [Portfolio](https://nikhil-void.github.io/Nikhil_Portfolio/) – Explore my projects and technical skills in more detail
 -   ✍️ [Medium Account](https://medium.com/@nikhil_naik) – Read my insights on Machine Learning and AI topics
-
+</br> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/void_n1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="void_n1" height="30" width="40" /></a>
