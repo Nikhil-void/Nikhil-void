@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="896" height="512" src="https://github.com/Nikhil-void/Nikhil-void/blob/main/banner1.webp">
 <h1 align="center">Hi there 👋 I'm Nikhil Naik</h1>
-<h3 align="center">I'm a Machine Learning Engineer with over 3 years of experience in Generative AI, NLP, and Computer Vision. I’m passionate about building scalable AI solutions and fine-tuning large language models (LLMs) for real-world applications.</h3>
+<h3 align="center">I'm a Machine Learning Engineer with over 3 years of experience in Generative AI, NLP, and Computer Vision. I’m passionate about building scalable AI solutions and fine-tuning large language models (LLMs) for real-world applications.</h3></br>
 <img align="right" alt="Coding" width="250" height="250" src="https://github.com/Nikhil-void/Nikhil-void/blob/main/81248-watch-computer-animation.gif">
 
 - 🎓 Master's in Machine Learning from Stevens Institute of Technology, NJ.
@@ -11,7 +11,7 @@
 
 - 📝 Co-author of articles on LLM fine-tuning and optimization.
 
-  
+</br>  
 
 -   📫 Contact: nsnaik1996@gmail.com
 -   📄 [Resume](https://github.com/Nikhil-void/Nikhil_Portfolio/blob/main/assets/pdf/Nikhil_Naik_Resume.pdf) – Concise summary of my experience
